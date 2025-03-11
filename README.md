@@ -1,4 +1,4 @@
-**# FrinkleApp**
+****# FrinkleApp********
 
 This is an an app created for people to meet new friends, find love and begin a relationship.
 
@@ -6,6 +6,7 @@ I decided to do a project where I hosted a web application on Azure App Service.
 For version control, I used GitHub.
 
 **Project Overview:**
+
 **Phase 1**: Version Control with GitHub
 I created a new repository, initialized using Git Bash, staged, committed and pushed the code to the new GitHub repository.
 
