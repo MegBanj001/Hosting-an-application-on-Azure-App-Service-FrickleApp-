@@ -1,4 +1,4 @@
-****# FrinkleApp********
+# FrinkleApp
 
 This is an an app created for people to meet new friends, find love and begin a relationship.
 
