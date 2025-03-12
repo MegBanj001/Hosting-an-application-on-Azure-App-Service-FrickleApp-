@@ -1,4 +1,4 @@
-![Alt text](./images/images/Screenshot 190433.png)
+
 
 # FrinkleApp
 
