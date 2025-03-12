@@ -1,3 +1,5 @@
+![Alt text](/images/Screenshot 190433.png)
+
 # FrinkleApp
 
 This is an an app created for people to meet new friends, find love and begin a relationship.
