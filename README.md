@@ -1,3 +1,6 @@
+
+![Screenshot 2025-03-11 190433](https://github.com/user-attachments/assets/965106e4-ed2f-4c38-8692-8845e239a6fb)
+
 # FrinkleApp
 
 This is an an app created for people to meet new friends, find love and begin a relationship.
